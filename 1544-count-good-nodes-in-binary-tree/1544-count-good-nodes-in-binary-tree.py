@@ -15,10 +15,6 @@ class Solution:
         if root.val >= maxx :
             self.nb_good += 1
             maxx = root.val
-        
-        print("val=",root.val)
-        print("maxx=",maxx)
-        print("nb_good=",self.nb_good)
 
         l = self.goodNodes(root.left,maxx)
         r = self.goodNodes(root.right,maxx)
