@@ -15,7 +15,8 @@ class Solution:
         
         l = self.isValidBST(root.left, minn = minn ,maxx = root.val)
         r = self.isValidBST(root.right, minn = root.val ,maxx = maxx)
-
+        if l == False or r == False:
+            return False
         return l and r
 
         
