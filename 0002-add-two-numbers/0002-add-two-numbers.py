@@ -11,12 +11,11 @@ class Solution:
         rest = (l1.val + l2.val)//10
 
         while True:
-            print("hello",l1,l2)
             if l1 != None:
                 l1=l1.next
             if l2 != None:
                 l2=l2.next
-                
+
             v1=0
             v2=0
             if l1 == None and l2 == None :
