@@ -1,8 +1,10 @@
 class Solution:
+    DP=[0]*46
     def climbStairs(self, n: int) -> int:
-        DP=[0]*46
-        DP[1] = 1 
-        DP[2] = 2
-        for i in range(3,46):
-            DP[i]=DP[i-1]+DP[i-2]
-        return DP[n]
+        if not self.DP[1]:
+            self.DP[1] = 1 
+            self.DP[2] = 2
+            for i in range(3,46):
+                self.DP[i]=self.DP[i-1]+self.DP[i-2]
+        
+        return self.DP[n]
