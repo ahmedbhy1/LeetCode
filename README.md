@@ -73,10 +73,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/ahmedbhy1/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/ahmedbhy1/LeetCode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/ahmedbhy1/LeetCode/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ahmedbhy1/LeetCode/tree/master/0078-subsets) |
+## Hash Table
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/ahmedbhy1/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## String
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/ahmedbhy1/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
