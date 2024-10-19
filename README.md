@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/ahmedbhy1/LeetCode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/ahmedbhy1/LeetCode/tree/master/0078-subsets) |
 | [0200-number-of-islands](https://github.com/ahmedbhy1/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/ahmedbhy1/LeetCode/tree/master/0695-max-area-of-island) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/ahmedbhy1/LeetCode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/ahmedbhy1/LeetCode/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
