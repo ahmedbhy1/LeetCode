@@ -6,12 +6,10 @@ class Solution:
         vis = [[0] * m for _ in range(n)]
         
         def dfs(i,j):
-            print("i=",i,"j=",j)
             if i<0 or i>n or j>m or j<0:
                 return 
             for l in range(-1,2):
                 for k in range(-1,2):
-                    #print("i+l=",i+l,"j+k=",j+k)
                     test = i+l>=0 and i+l<n and j+k>=0 and j+k<m
                     if (test and grid[i+l][j+k]==1 and vis[i+l][j+k]==0) and abs(l-k)==1:
                         vis[i+l][j+k] = 1
@@ -25,8 +23,6 @@ class Solution:
                 if (grid[i][j]==1 and vis[i][j]==0):
                     vis[i][j] = 1
                     L.append(1)
-                    print("starting dfs")
                     dfs(i,j)
         
-        print(L)
         return max(L)
