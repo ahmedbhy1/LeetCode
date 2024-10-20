@@ -1,50 +1,32 @@
-
 class Solution:
-    def __init__(self):
-        self.vis = [[0 for _ in range(101)] for _ in range(101)]
-        self.max_area = 0
-        self.current_area = 0
-
-    def dfs(self, grid, i, j):
-        rows = len(grid)
-        cols = len(grid[0])
-        self.max_area = max(self.max_area,self.current_area)
-        if i+1<rows and self.vis[i+1][j] ==0 and grid[i+1][j]:
-            self.vis[i+1][j] = 1
-            self.current_area +=1
-            self.dfs(grid, i + 1, j) 
-
-        if i-1>=0 and self.vis[i-1][j] ==0 and grid[i-1][j]:
-            self.vis[i-1][j] = 1
-            self.current_area +=1
-            self.dfs(grid, i - 1, j)  
-        if j+1<cols and self.vis[i][j+1] ==0 and grid[i][j+1]:
-            self.vis[i][j+1] = 1
-            self.current_area +=1
-            self.dfs(grid, i, j + 1)  
-        if j-1>=0 and self.vis[i][j-1] ==0 and grid[i][j-1]:
-            self.vis[i][j-1] = 1
-            self.current_area +=1
-            self.dfs(grid, i, j - 1) 
-
     def maxAreaOfIsland(self, grid: List[List[int]]) -> int:
-        for i in range(101):
-            for j in range(101):
-                self.vis[i][j] = 0
+        maxx = 0
+        L=[0]
+        n,m = len(grid),len(grid[0])
+        vis = [[0] * m for _ in range(n)]
+        
+        def dfs(i,j):
+            print("i=",i,"j=",j)
+            if i<0 or i>n or j>m or j<0:
+                return 
+            for l in range(-1,2):
+                for k in range(-1,2):
+                    #print("i+l=",i+l,"j+k=",j+k)
+                    test = i+l>=0 and i+l<n and j+k>=0 and j+k<m
+                    if (test and grid[i+l][j+k]==1 and vis[i+l][j+k]==0) and abs(l-k)==1:
+                        vis[i+l][j+k] = 1
+                        L[-1]+=1
+                        dfs(i+l,j+k)
 
-        rows = len(grid)
-        cols = len(grid[0]) if rows > 0 else 0
 
-        if rows == 0 or cols == 0:
-            return 0
 
-        nb = 0
-
-        for i in range(rows):
-            for j in range(cols):
-                if self.vis[i][j] == 0 and grid[i][j] == 1:
-                    self.vis[i][j] = 1
-                    self.current_area = 1
-                    self.dfs(grid, i, j)
-
-        return self.max_area
+        for i in range(n):
+            for j in range(m):
+                if (grid[i][j]==1 and vis[i][j]==0):
+                    vis[i][j] = 1
+                    L.append(1)
+                    print("starting dfs")
+                    dfs(i,j)
+        
+        print(L)
+        return max(L)
