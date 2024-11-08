@@ -4,8 +4,7 @@
 
 
 var createHelloWorld = () => {
-    let a = ()=> {return  "Hello World";  }
-    return a 
+    return ()=> {return  "Hello World";  }
 };
 const f = createHelloWorld();
 
