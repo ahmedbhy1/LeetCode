@@ -5,9 +5,9 @@
  */
 var filter = function(arr, fn) {
     let l = []
-    for (i=0;i<arr.length;i++){
+    for (i in arr){
         console.log(arr[i]);
-        if (fn(arr[i], i)){
+        if (fn(arr[i], Number(i))){
             l.push(arr[i]);
         }
     };
