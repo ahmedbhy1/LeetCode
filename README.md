@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ahmedbhy1/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ahmedbhy1/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ahmedbhy1/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ahmedbhy1/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/ahmedbhy1/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ahmedbhy1/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/ahmedbhy1/LeetCode/tree/master/0200-number-of-islands) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ahmedbhy1/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0695-max-area-of-island](https://github.com/ahmedbhy1/LeetCode/tree/master/0695-max-area-of-island) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ahmedbhy1/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
@@ -28,11 +30,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ahmedbhy1/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ahmedbhy1/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ahmedbhy1/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ahmedbhy1/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ahmedbhy1/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ahmedbhy1/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Linked List
 |  |
 | ------- |
