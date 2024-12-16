@@ -34,9 +34,7 @@ class Solution:
         a = p.val
         b = q.val
         
-        print("did we enter to the while ?",i,j)
         while i>=0 and j>=0:
-            print(i,j)
             if (i==j):
                 if (a == b): 
                     tr = TreeNode(a)
@@ -48,15 +46,9 @@ class Solution:
                 continue
             if (i<j):
                 j-=1
-                print(b)
-                print(d)
                 b = d[b]
                 continue
             if (i>j):
                 i-=1
                 a = d[a]
                 continue
-
-            
-        print(d)
-        print(np)
