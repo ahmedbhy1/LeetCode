@@ -21,7 +21,7 @@ class Solution:
         dfs(root)
 
         counter = Counter(sums)
-        maxx_count = counter.most_common(1)[0][1]
-        l = [items for items,count in counter.items() if count==maxx_count]
+        max_count = max(counter.values())
+        l = [items for items,count in counter.items() if count==max_count]
         
         return l
