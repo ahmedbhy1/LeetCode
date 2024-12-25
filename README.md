@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/ahmedbhy1/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ahmedbhy1/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/ahmedbhy1/LeetCode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/ahmedbhy1/LeetCode/tree/master/0207-course-schedule) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ahmedbhy1/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/ahmedbhy1/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0695-max-area-of-island](https://github.com/ahmedbhy1/LeetCode/tree/master/0695-max-area-of-island) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ahmedbhy1/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/ahmedbhy1/LeetCode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/ahmedbhy1/LeetCode/tree/master/0207-course-schedule) |
 | [0695-max-area-of-island](https://github.com/ahmedbhy1/LeetCode/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/ahmedbhy1/LeetCode/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ahmedbhy1/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -101,4 +103,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ahmedbhy1/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/ahmedbhy1/LeetCode/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/ahmedbhy1/LeetCode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
