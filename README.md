@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ahmedbhy1/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/ahmedbhy1/LeetCode/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/ahmedbhy1/LeetCode/tree/master/1036-rotting-oranges) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ahmedbhy1/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Union Find
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ahmedbhy1/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0508-most-frequent-subtree-sum](https://github.com/ahmedbhy1/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ahmedbhy1/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## String
 |  |
 | ------- |
@@ -111,4 +113,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ahmedbhy1/LeetCode/tree/master/0207-course-schedule) |
+## Greedy
+|  |
+| ------- |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ahmedbhy1/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+## Sorting
+|  |
+| ------- |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ahmedbhy1/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ahmedbhy1/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+## Simulation
+|  |
+| ------- |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ahmedbhy1/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 <!---LeetCode Topics End-->
