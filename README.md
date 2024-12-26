@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ahmedbhy1/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/ahmedbhy1/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0508-most-frequent-subtree-sum](https://github.com/ahmedbhy1/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0567-permutation-in-string](https://github.com/ahmedbhy1/LeetCode/tree/master/0567-permutation-in-string) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ahmedbhy1/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ahmedbhy1/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/ahmedbhy1/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ahmedbhy1/LeetCode/tree/master/0567-permutation-in-string) |
 ## Graph
 |  |
@@ -138,5 +140,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/ahmedbhy1/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ahmedbhy1/LeetCode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
