@@ -100,11 +100,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ahmedbhy1/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0508-most-frequent-subtree-sum](https://github.com/ahmedbhy1/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
+| [0567-permutation-in-string](https://github.com/ahmedbhy1/LeetCode/tree/master/0567-permutation-in-string) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ahmedbhy1/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## String
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ahmedbhy1/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0567-permutation-in-string](https://github.com/ahmedbhy1/LeetCode/tree/master/0567-permutation-in-string) |
 ## Graph
 |  |
 | ------- |
@@ -129,4 +131,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ahmedbhy1/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+## Two Pointers
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/ahmedbhy1/LeetCode/tree/master/0567-permutation-in-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/ahmedbhy1/LeetCode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
