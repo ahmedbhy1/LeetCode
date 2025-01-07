@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ahmedbhy1/LeetCode/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/ahmedbhy1/LeetCode/tree/master/0091-decode-ways) |
 | [0213-house-robber-ii](https://github.com/ahmedbhy1/LeetCode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/ahmedbhy1/LeetCode/tree/master/0322-coin-change) |
 ## Memoization
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ahmedbhy1/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0091-decode-ways](https://github.com/ahmedbhy1/LeetCode/tree/master/0091-decode-ways) |
 | [0424-longest-repeating-character-replacement](https://github.com/ahmedbhy1/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ahmedbhy1/LeetCode/tree/master/0567-permutation-in-string) |
 ## Graph
