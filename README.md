@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ahmedbhy1/LeetCode/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/ahmedbhy1/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ahmedbhy1/LeetCode/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/ahmedbhy1/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ahmedbhy1/LeetCode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/ahmedbhy1/LeetCode/tree/master/0091-decode-ways) |
 | [0213-house-robber-ii](https://github.com/ahmedbhy1/LeetCode/tree/master/0213-house-robber-ii) |
@@ -149,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/ahmedbhy1/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ahmedbhy1/LeetCode/tree/master/0567-permutation-in-string) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ahmedbhy1/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
