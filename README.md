@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/ahmedbhy1/LeetCode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/ahmedbhy1/LeetCode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/ahmedbhy1/LeetCode/tree/master/0518-coin-change-ii) |
+| [1250-longest-common-subsequence](https://github.com/ahmedbhy1/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Memoization
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/ahmedbhy1/LeetCode/tree/master/0091-decode-ways) |
 | [0424-longest-repeating-character-replacement](https://github.com/ahmedbhy1/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ahmedbhy1/LeetCode/tree/master/0567-permutation-in-string) |
+| [1250-longest-common-subsequence](https://github.com/ahmedbhy1/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Graph
 |  |
 | ------- |
