@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ahmedbhy1/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ahmedbhy1/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0300-longest-increasing-subsequence](https://github.com/ahmedbhy1/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 ## Linked List
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/ahmedbhy1/LeetCode/tree/master/0097-interleaving-string) |
 | [0139-word-break](https://github.com/ahmedbhy1/LeetCode/tree/master/0139-word-break) |
 | [0213-house-robber-ii](https://github.com/ahmedbhy1/LeetCode/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/ahmedbhy1/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ahmedbhy1/LeetCode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/ahmedbhy1/LeetCode/tree/master/0518-coin-change-ii) |
 | [1250-longest-common-subsequence](https://github.com/ahmedbhy1/LeetCode/tree/master/1250-longest-common-subsequence) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/ahmedbhy1/LeetCode/tree/master/0139-word-break) |
 | [0200-number-of-islands](https://github.com/ahmedbhy1/LeetCode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/ahmedbhy1/LeetCode/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/ahmedbhy1/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ahmedbhy1/LeetCode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/ahmedbhy1/LeetCode/tree/master/0518-coin-change-ii) |
 | [0695-max-area-of-island](https://github.com/ahmedbhy1/LeetCode/tree/master/0695-max-area-of-island) |
