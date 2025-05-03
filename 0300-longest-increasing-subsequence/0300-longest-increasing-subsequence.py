@@ -13,6 +13,6 @@ class Solution:
                 if j < nums[i]:
                     maxx = max(maxx , L[j]+1)
             L[nums[i]] = maxx
-        print(L[10000:10011])
+
         
         return max(L)
