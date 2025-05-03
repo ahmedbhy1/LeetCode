@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ahmedbhy1/LeetCode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/ahmedbhy1/LeetCode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/ahmedbhy1/LeetCode/tree/master/0097-interleaving-string) |
+| [0139-word-break](https://github.com/ahmedbhy1/LeetCode/tree/master/0139-word-break) |
 | [0213-house-robber-ii](https://github.com/ahmedbhy1/LeetCode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/ahmedbhy1/LeetCode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/ahmedbhy1/LeetCode/tree/master/0518-coin-change-ii) |
@@ -72,12 +73,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ahmedbhy1/LeetCode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/ahmedbhy1/LeetCode/tree/master/0139-word-break) |
 ## Array
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/ahmedbhy1/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/ahmedbhy1/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/ahmedbhy1/LeetCode/tree/master/0078-subsets) |
+| [0139-word-break](https://github.com/ahmedbhy1/LeetCode/tree/master/0139-word-break) |
 | [0200-number-of-islands](https://github.com/ahmedbhy1/LeetCode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/ahmedbhy1/LeetCode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/ahmedbhy1/LeetCode/tree/master/0322-coin-change) |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ahmedbhy1/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0139-word-break](https://github.com/ahmedbhy1/LeetCode/tree/master/0139-word-break) |
 | [0424-longest-repeating-character-replacement](https://github.com/ahmedbhy1/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0508-most-frequent-subtree-sum](https://github.com/ahmedbhy1/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0567-permutation-in-string](https://github.com/ahmedbhy1/LeetCode/tree/master/0567-permutation-in-string) |
@@ -121,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ahmedbhy1/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0091-decode-ways](https://github.com/ahmedbhy1/LeetCode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/ahmedbhy1/LeetCode/tree/master/0097-interleaving-string) |
+| [0139-word-break](https://github.com/ahmedbhy1/LeetCode/tree/master/0139-word-break) |
 | [0424-longest-repeating-character-replacement](https://github.com/ahmedbhy1/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ahmedbhy1/LeetCode/tree/master/0567-permutation-in-string) |
 | [1250-longest-common-subsequence](https://github.com/ahmedbhy1/LeetCode/tree/master/1250-longest-common-subsequence) |
@@ -161,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ahmedbhy1/LeetCode/tree/master/0062-unique-paths) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/ahmedbhy1/LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
