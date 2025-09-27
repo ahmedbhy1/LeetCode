@@ -13,7 +13,8 @@ class Solution:
             return root
         x = root.right
         root.right = root.left
-        self.invertTree(root.right)
+        
         root.left = x
+        self.invertTree(root.right)
         self.invertTree(root.left)
         return root
