@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ahmedbhy1/LeetCode/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/ahmedbhy1/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ahmedbhy1/LeetCode/tree/master/0070-climbing-stairs) |
+| [1014-k-closest-points-to-origin](https://github.com/ahmedbhy1/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Recursion
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/ahmedbhy1/LeetCode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/ahmedbhy1/LeetCode/tree/master/0518-coin-change-ii) |
 | [0695-max-area-of-island](https://github.com/ahmedbhy1/LeetCode/tree/master/0695-max-area-of-island) |
+| [1014-k-closest-points-to-origin](https://github.com/ahmedbhy1/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/ahmedbhy1/LeetCode/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/ahmedbhy1/LeetCode/tree/master/1127-last-stone-weight) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ahmedbhy1/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -163,10 +165,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1014-k-closest-points-to-origin](https://github.com/ahmedbhy1/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ahmedbhy1/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1014-k-closest-points-to-origin](https://github.com/ahmedbhy1/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/ahmedbhy1/LeetCode/tree/master/1127-last-stone-weight) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ahmedbhy1/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Simulation
@@ -190,4 +194,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/ahmedbhy1/LeetCode/tree/master/0139-word-break) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/ahmedbhy1/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/ahmedbhy1/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/ahmedbhy1/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
