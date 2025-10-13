@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/ahmedbhy1/LeetCode/tree/master/0518-coin-change-ii) |
 | [0695-max-area-of-island](https://github.com/ahmedbhy1/LeetCode/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/ahmedbhy1/LeetCode/tree/master/1036-rotting-oranges) |
+| [1127-last-stone-weight](https://github.com/ahmedbhy1/LeetCode/tree/master/1127-last-stone-weight) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ahmedbhy1/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Union Find
 |  |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1127-last-stone-weight](https://github.com/ahmedbhy1/LeetCode/tree/master/1127-last-stone-weight) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ahmedbhy1/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Simulation
 |  |
