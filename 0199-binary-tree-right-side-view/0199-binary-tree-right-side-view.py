@@ -15,7 +15,7 @@ class Solution:
             if root == None :
                 return
             L.append((deapth,penality,root.val))
-            dfs(root.left, deapth + 1, penality + 2 ** (20-deapth) )
+            dfs(root.left, deapth + 1, penality + (1 << (40-deapth) ))
             dfs(root.right, deapth + 1, penality)
         
         
